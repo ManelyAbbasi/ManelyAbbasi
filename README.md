@@ -1,6 +1,6 @@
 👋 Hi, I'm Manely!
 <p>
-👩🏻‍💻 I'm a <strong>Software Engineering and Management student</strong> in a <strong>Bachelor's program jointly offered by Chalmers University of Technology and the University of Gothenburg</strong>. I'm originally from <strong>Iran</strong> and now live in <strong>Sweden</strong>, where I draw inspiration from various environments and experiences to shape my work and creativity.
+:computer: I'm a <strong>Software Engineering and Management student</strong> in a <strong>Bachelor's program jointly offered by Chalmers University of Technology and the University of Gothenburg</strong>. I'm originally from <strong>Iran</strong> and now live in <strong>Sweden</strong>, where I draw inspiration from various environments and experiences to shape my work and creativity.
 </p>
 
 <p>
